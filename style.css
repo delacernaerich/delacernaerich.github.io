@@ -1,0 +1,14 @@
+#footer {
+    position: fixed;
+    bottom: 0;
+    text-align: right;
+    width: 100%;
+    padding: 10px;
+}
+
+.custom-container {
+    padding-top: 20px;
+    margin-bottom: 70px;
+    overflow: auto;
+}
+
